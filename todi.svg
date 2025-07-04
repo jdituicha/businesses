@@ -16,7 +16,7 @@
      id="defs8" />
   <sodipodi:namedview
      id="namedview6"
-     pagecolor="#efefef"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="8.14"
-     inkscape:cx="49.938575"
-     inkscape:cy="50"
+     inkscape:zoom="2.8779246"
+     inkscape:cx="62.718808"
+     inkscape:cy="39.611879"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -34,7 +34,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="M20 50 L40 70 L80 30 L75 25 L40 60 L25 45 Z"
-     fill="black"
-     id="path2" />
+     d="M 1.0926031,54.075616 33.697534,86.680548 98.907397,21.470685 90.756164,13.319452 33.697534,70.378082 9.2438359,45.924384 Z"
+     fill="#000000"
+     id="path2"
+     style="stroke-width:1.63025" />
 </svg>
